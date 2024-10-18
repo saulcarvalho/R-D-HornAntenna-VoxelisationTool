@@ -1,3 +1,3 @@
-# A Voxelisation Tool for the Electromagnetic Simulation of Metal Composite Materials
+# Voxelization Tool
 
 On hold until paper submission.
