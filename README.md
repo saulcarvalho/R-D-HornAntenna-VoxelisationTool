@@ -1,3 +1,3 @@
-# Voxelization Tool
+# Voxelisation Tool
 
 On hold until paper submission.
